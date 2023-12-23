@@ -14,6 +14,6 @@
 
 📫 How to reach me: [Your Contact Information]
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)](https://github.com/YourGitHubUsername)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jasil123&show_icons=true&theme=radical)](https://github.com/YourGitHubUsername)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)](https://github.com/YourGitHubUsername)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasil123&layout=compact&theme=radical)](https://github.com/YourGitHubUsername)
